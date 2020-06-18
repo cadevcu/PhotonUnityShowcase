@@ -4,7 +4,7 @@
 * more info coming soon...
 
 **How to Setup:**
-1. Clone or Download this repo (*for non-github users I recommend "Download as ZIP"*)
+1. Clone or Download this repo (*for non-github users I recommend **"Download as ZIP" -> [click here to download zip](https://github.com/cadevcu/PhotonUnityShowcase/archive/master.zip)***)
 2. Extract "WeiskopfCade-PhotonUnityGame.zip" to wherever
 3. Run "WeiskopfCade-UnityGame.exe"
 
