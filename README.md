@@ -13,7 +13,7 @@
 * **WASD** movement
 * **Left shift** - Hold: increases speed over time up to 5, Else: decreases speed over time to 1 
     * (run into other players with lower speed to knock them down for an amount of time depending on speed differences)
-* **Spacebar** - jump, or hold to use jetpack in air
+* **Spacebar** - jump (hold to jump higher *--players can no longer "DoubleJump" or "JetPack"*)
 * **LeftClick** Mouse - *if player has ball* hold to increase shot power, and shot on let go
 * **RightClick** Mouse - *if player shot ball* hold to force the ball downwards while it's still in the air
 * **Tab** - *ingame* show player scoreboard (to display in-depth player statistics **--incomplete, and needs to be updated for late joiners to live games**)
