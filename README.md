@@ -12,9 +12,9 @@
 *ingame customizations coming soon*
 * **WASD** movement
 * **Left shift** - adjust speed (*run into other players with high speed to knock them down*)
-* **Spacebar** - jump (hold to jump higher *--players can no longer "DoubleJump" or "JetPack"*)
+* **Spacebar** - jump (*hold to jump higher*)
 * **LeftClick** Mouse - *if player has ball* hold to increase shot power, and shot on let go
 * **RightClick** Mouse - *if player shot ball* hold to force the ball downwards while it's still in the air
-* **Tab** - *ingame* show player scoreboard (to display in-depth player statistics **--incomplete, and needs to be updated for late joiners to live games**)
+* **Tab** - *ingame* show player scoreboard (to display in-depth player statistics *-- being reworked*)
 * **Escape** - *ingame* shows in game escape options (**use this to start game when Auto-Start Game is unchecked/false**)
 * **Y** - *ingame* brings up chat (**incomplete - as of 6/18 chat will only close ingame if you actually send a message**)
