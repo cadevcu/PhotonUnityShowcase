@@ -1,7 +1,7 @@
 # PhotonUnityShowcase
 *additional/hidden features: MySQL Database with PHP communication for user login/registrations --currently only available when the php files are being hosted locally*
 
-* An online first person basketball game (requires internet connection). Knock down players, steal the ball, and make amazing shots. To play go to Lobby, and join or create a room. New rooms can be customized, and the game itself if customizable via settings. This is a personal project that took ~1 month to make for showcasing purposes. 
+* An online first person basketball game (requires internet connection). Knock down players, steal the ball, and make amazing shots. To play go to Lobby, and join or create a room. New rooms can be customized, and the game itself is customizable via settings. This is a personal project that took ~1 month to make for showcasing purposes. 
 
 **How to Setup:**
 1. Clone or Download this repo (*for non-github users I recommend **"Download as ZIP" -> [click here to download zip](https://github.com/cadevcu/PhotonUnityShowcase/archive/master.zip)***)
